@@ -1,29 +1,25 @@
 ---
-title: "Using Markdown"
-teaching: 10 # teaching time in minutes
-exercises: 2 # exercise time in minutes
+title: "Pre European Use Engagement with Land Around Hiram Farm"
+teaching: 1 # What is a Land Acknowledgement?
+exercises: 1 # 30 minutes
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`? hhhhh
+- Which First Nations resided here prior to the arrival of Europeans?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
-
+- Articulate the role and significance of land acknowledgment in recognizing Indigenous presence
+- Critically evaluate the historical context, including the brutalities, systematic indoctrination, forced removal, and assimilation of Indigenous peoples
+- Examine the Western notion of wilderness, considering the romantic view of the U.S. National Park System, and analyze how this has led to the appropriation of native and Indigenous lands
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown](https://pandoc.org/MANUAL.html) for static files and
-[R Markdown][r-markdown] for dynamic files that can render code into output. 
-Please refer to the [Introduction to The Carpentries 
-Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.
+Welcome to the beginning of our exploration into land acknowledgments. This first lesson lays the foundation for understanding the historical context and significance of recognizing Indigenous presence and acknowledging a prehistory to colonization. We encourage you to engage with the additional resources provided, as this is just the starting point of a comprehensive journey into a complex and vital subject.
 
 What you need to know is that there are three sections required for a valid
 Carpentries lesson:
